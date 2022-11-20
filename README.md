@@ -22,8 +22,8 @@ ____
 
 - laba9_ft_210007_Alexander_Shmygol.py - файл для запуска программы
 ____
-![screen_1](https://github.com/saschaschmygol/laba8_ft_210007_Alexander_Shmygol/raw/main/l8_1.png)
+![screen_1](https://github.com/saschaschmygol/laba9_ft_210007_Alexander_Shmygol/raw/main/l8_1.png)
 
-![screen_2](https://github.com/saschaschmygol/laba8_ft_210007_Alexander_Shmygol/raw/main/l8_2.png)
+![screen_2](https://github.com/saschaschmygol/laba9_ft_210007_Alexander_Shmygol/raw/main/l8_2.png)
 
 
